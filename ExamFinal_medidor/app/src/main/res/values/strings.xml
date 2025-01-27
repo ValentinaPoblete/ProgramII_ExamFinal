@@ -1,0 +1,9 @@
+<resources>
+    <string name="valor_registrado">Valor registrado</string>
+    <string name="fecha_registrada">Fecha registrada</string>
+    <string name="agua">Agua</string>
+    <string name="luz">Luz</string>
+    <string name="gas">Gas</string>
+    <string name="guardar_registro">Guardar Registro</string>
+    <string name="agregar_registro">Agregar Registro</string>
+</resources>
